@@ -338,16 +338,6 @@ terraform destroy
 - IAM roles and policies
 - Security groups
 
-## 🎥 Demo
-
-A video demonstration of the project execution and explanation is available:
-
-**[View Demo Videos](https://drive.google.com/drive/folders/12q7SfpATKqhqUh1wGvl55CYssQtqLEKT?usp=drive_link)**
-
-The demo includes:
-- `execution.mov` - Complete deployment and execution walkthrough
-- `explanation.mov` - Technical architecture and code explanation
-
 ## 📝 License
 
 This project is for educational purposes as part of cloud computing coursework.
